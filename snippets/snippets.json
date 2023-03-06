@@ -1,0 +1,11 @@
+{
+  "xxx-button 按钮": {
+    "prefix": "xxx-button",
+    "body": [
+      "<xxx-button type=\"${1|primary,text,info,success,warning,danger|}\"",
+      "            auth=\"$2\"",
+      "            @click=\"$3\">${4}</xxx-button>"
+    ],
+    "description": "xxx UI <xxx-button>"
+  }
+}
